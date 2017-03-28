@@ -1,2 +1,2 @@
 # RiceCooker
-A tool for making themes using Ruby.
+A collection of tools and information for making Linux pretty again.
